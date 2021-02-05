@@ -4,5 +4,5 @@
 
 * Mack Qian
 * ![Mack](pic.png)
-* 2021
+* Spring 2021
 * AI or graphics related
