@@ -2,6 +2,6 @@
 
 
 * Mack Qian
-![Mack](pic.png)
+* ![Mack](pic.png)
 * 2021
 * AI or graphics related
